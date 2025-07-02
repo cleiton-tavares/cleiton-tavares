@@ -26,7 +26,7 @@
 
 ## 📬 Fala comigo
 
-- LinkedIn: [cleiton-tavares](https://www.linkedin.com/in/cleiton-tavares)
+- LinkedIn: [cleiton-tavares](https://www.linkedin.com/in/cleitontavares)
 - GitHub: [@cleiton-tavares](https://github.com/cleiton-tavares)
 - Email: cleiton@tavaresfamily.com.br
 
