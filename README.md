@@ -20,8 +20,8 @@
 
 ## 🛠️ Alguns projetos que me empolgam
 
-- 🧠 **[Kognar Cockpit](https://cockpit.kognar.com)** — Plataforma com IA para dar superpoderes a sistemas antigos
-- 🎮 **Coleção Gamer** — Organizando o caos de consoles, fitas e raridades dos anos 90
+- 🧠 **[Kognar Cockpit](https://cockpit.kognar.com/start-here?utm_source=github&utm_medium=link&utm_campaign=profiles&utm_id=profiles)** — Plataforma com IA para dar superpoderes a sistemas antigos
+- 🎮 **[The Collector](https://thecollector.pro?utm_source=github&utm_medium=link&utm_campaign=profiles&utm_id=profiles)** — Organizando o caos de consoles, fitas e raridades dos anos 90
 - 🧰 Vários utilitários e automações que ainda vivem no meu `/dev` pessoal
 
 ## 📬 Fala comigo
