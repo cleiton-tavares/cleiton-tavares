@@ -7,7 +7,7 @@
 ## 🚀 Sobre mim
 
 - +20 anos de experiência em desenvolvimento de software (e ainda me divirto com isso)
-- Especialista em **Java EE**, **Node.js**, **React**, **Oracle PL/SQL**, **WebSphere** e **integração de sistemas legados**
+- Especialista em **Java**, **Node.js**, **Python**,  **React**, **Angular/AngularJS**, **Oracle PL/SQL**, **WebSphere** e **integração de sistemas legados**
 - Foco em **performance**, **manutenibilidade** e **boa arquitetura**
 - Ajudando grandes empresas a sair do legado, sem quebrar o sistema no caminho 😅
 
@@ -20,8 +20,8 @@
 
 ## 🛠️ Alguns projetos que me empolgam
 
-- 🧠 **[Kognar Cockpit](https://cockpit.kognar.com/start-here?utm_source=github&utm_medium=link&utm_campaign=profiles&utm_id=profiles)** — Plataforma com IA para dar superpoderes a sistemas antigos
-- 🎮 **[The Collector](https://thecollector.pro?utm_source=github&utm_medium=link&utm_campaign=profiles&utm_id=profiles)** — Organizando o caos de consoles, fitas e raridades dos anos 90
+- 🧠 **[Kognar](https://kognar.com/?utm_source=github&utm_medium=link&utm_campaign=profiles&utm_id=profiles)** — Plataforma com IA para dar superpoderes a produtos digitais
+- 🎮 **[The Collector.pro](https://thecollector.pro?utm_source=github&utm_medium=link&utm_campaign=profiles&utm_id=profiles)** — Organizando o caos de consoles, fitas e raridades dos anos 90
 - 🧰 Vários utilitários e automações que ainda vivem no meu `/dev` pessoal
 
 ## 📬 Fala comigo
